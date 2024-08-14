@@ -1,3 +1,3 @@
 # movie-recommender
 
-For Dr.Malek Machine Learning Project Shahid Beheshti University.
+Designing a movie recommender system for machine-learning project.
