@@ -1,3 +1,3 @@
 # movie-recommender
 
-Designing a movie recommender system for machine-learning project.
+&nbsp; Designing a movie recommender system for machine-learning project.
